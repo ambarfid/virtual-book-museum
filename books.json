@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Karya 01",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 2,
+    "title": "Karya 02",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 3,
+    "title": "Karya 03",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 4,
+    "title": "Karya 04",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 5,
+    "title": "Karya 05",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 6,
+    "title": "Karya 06",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 7,
+    "title": "Karya 07",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 8,
+    "title": "Karya 08",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 9,
+    "title": "Karya 09",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 10,
+    "title": "Karya 10",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 11,
+    "title": "Karya 11",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 12,
+    "title": "Karya 12",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 13,
+    "title": "Karya 13",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 14,
+    "title": "Karya 14",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 15,
+    "title": "Karya 15",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 16,
+    "title": "Karya 16",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 17,
+    "title": "Karya 17",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 18,
+    "title": "Karya 18",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 19,
+    "title": "Karya 19",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 20,
+    "title": "Karya 20",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 21,
+    "title": "Karya 21",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 22,
+    "title": "Karya 22",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 23,
+    "title": "Karya 23",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 24,
+    "title": "Karya 24",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 25,
+    "title": "Karya 25",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 26,
+    "title": "Karya 26",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 27,
+    "title": "Karya 27",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 28,
+    "title": "Karya 28",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 29,
+    "title": "Karya 29",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 30,
+    "title": "Karya 30",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 31,
+    "title": "Karya 31",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 32,
+    "title": "Karya 32",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 33,
+    "title": "Karya 33",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 34,
+    "title": "Karya 34",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 35,
+    "title": "Karya 35",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 36,
+    "title": "Karya 36",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 37,
+    "title": "Karya 37",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 38,
+    "title": "Karya 38",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 39,
+    "title": "Karya 39",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 40,
+    "title": "Karya 40",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas A",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 41,
+    "title": "Karya 41",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 42,
+    "title": "Karya 42",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 43,
+    "title": "Karya 43",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 44,
+    "title": "Karya 44",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 45,
+    "title": "Karya 45",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 46,
+    "title": "Karya 46",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 47,
+    "title": "Karya 47",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 48,
+    "title": "Karya 48",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 49,
+    "title": "Karya 49",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 50,
+    "title": "Karya 50",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 51,
+    "title": "Karya 51",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 52,
+    "title": "Karya 52",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 53,
+    "title": "Karya 53",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 54,
+    "title": "Karya 54",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 55,
+    "title": "Karya 55",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 56,
+    "title": "Karya 56",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 57,
+    "title": "Karya 57",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 58,
+    "title": "Karya 58",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 59,
+    "title": "Karya 59",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 60,
+    "title": "Karya 60",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 61,
+    "title": "Karya 61",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 62,
+    "title": "Karya 62",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 63,
+    "title": "Karya 63",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 64,
+    "title": "Karya 64",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 65,
+    "title": "Karya 65",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 66,
+    "title": "Karya 66",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 67,
+    "title": "Karya 67",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 68,
+    "title": "Karya 68",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 69,
+    "title": "Karya 69",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 70,
+    "title": "Karya 70",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 71,
+    "title": "Karya 71",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 72,
+    "title": "Karya 72",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 73,
+    "title": "Karya 73",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 74,
+    "title": "Karya 74",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 75,
+    "title": "Karya 75",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 76,
+    "title": "Karya 76",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 77,
+    "title": "Karya 77",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 78,
+    "title": "Karya 78",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 79,
+    "title": "Karya 79",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  },
+  {
+    "id": 80,
+    "title": "Karya 80",
+    "author": "Nama Penulis",
+    "description": "Deskripsi singkat karya",
+    "class": "Kelas B",
+    "cover": "",
+    "bookUrl": "",
+    "reviewUrl": ""
+  }
+]
